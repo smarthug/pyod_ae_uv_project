@@ -1,0 +1,2 @@
+[console_scripts]
+pyod-ae-demo = pyod_ae_demo.main:main

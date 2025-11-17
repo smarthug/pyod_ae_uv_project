@@ -1,0 +1,14 @@
+pyod>=2.0.5
+torch>=2.5.1
+tqdm>=4.66.5
+scikit-learn>=1.5.0
+numpy>=2.2.0
+scipy>=1.14.0
+pandas>=2.2.0
+rich>=13.7.0
+pyyaml>=6.0.1
+fastapi>=0.121.1
+uvicorn>=0.38.0
+psutil>=7.1.3
+python-dotenv>=1.2.1
+websockets>=15.0.1

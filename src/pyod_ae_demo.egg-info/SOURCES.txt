@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/pyod_ae_demo/__init__.py
+src/pyod_ae_demo/main.py
+src/pyod_ae_demo.egg-info/PKG-INFO
+src/pyod_ae_demo.egg-info/SOURCES.txt
+src/pyod_ae_demo.egg-info/dependency_links.txt
+src/pyod_ae_demo.egg-info/entry_points.txt
+src/pyod_ae_demo.egg-info/requires.txt
+src/pyod_ae_demo.egg-info/top_level.txt
